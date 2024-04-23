@@ -5,7 +5,7 @@ publish_date: 2024-04-23
 
 This is my second blog post!
 
-This is a remote image
+This is a local image
 
 ![Tux, the Linux mascot](./assets/images/tux.png)
 

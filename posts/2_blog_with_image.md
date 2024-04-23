@@ -1,5 +1,5 @@
 ---
-title: Blog with image!
+title: Blog with images!
 publish_date: 2024-04-23
 ---
 

@@ -5,5 +5,10 @@
   },
   "imports": {
     "blog": "https://deno.land/x/blog@0.7.0/blog.tsx"
+  },
+  "lint": {
+    "rules": {
+      "tags": ["recommended"]
+    }
   }
 }
